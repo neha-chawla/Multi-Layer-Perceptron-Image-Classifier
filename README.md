@@ -11,3 +11,5 @@ Data (MNIST dataset: ​http://yann.lecun.com/exdb/mnist/​):
 - Test set labels​, which contains the associated 10,000 labels for the testing images.
 
 File 1 and 2 are the training set. File 3 and 4 are the test set. Each training and test instance in the MNIST database consists of a 28 × 28 grayscale image of a handwritten digit and an associated integer label indicating the digit that this image represents (0-9). Each of the 28 × 28 = 784 pixels of each of these images is represented by a single 8-bit color channel. Thus, the values each pixel can take on range from 0 (completely black) to 255 (​28 − 1, ​completely white). If you are interested, the raw MNIST format is described in ​http://yann.lecun.com/exdb/mnist/​.
+
+Result: 89% accuracy
