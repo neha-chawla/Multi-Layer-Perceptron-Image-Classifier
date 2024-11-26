@@ -1,7 +1,6 @@
 # Multi-Layer Perceptron Image Classifier
- Hand-written digit classification without using machine learning libraries
 
-Objective: Implement a multi-layer perceptron (MLP) neural network without using any machine learning libraries (tensorflow (v1&v2), caffe, pytorch, torch, cxxnet, and mxnet) and use it to classify hand-written digits as shown in the image below. Implement feedforward/backpropagation as well as training process.
+Objective: I've implemented a multi-layer perceptron (MLP) neural network without using any machine learning libraries (tensorflow (v1&v2), caffe, pytorch, torch, cxxnet, mxnet, etc.) and used it to classify hand-written digits as shown in the image below. I've implemented feedforward/backpropagation as well as the training process using the data below.
 
 <img width="509" alt="Screenshot 2024-11-25 at 5 34 21 PM" src="https://github.com/user-attachments/assets/be2eab03-fd0d-42c5-8933-bee2d181b09b">
 
